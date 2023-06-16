@@ -1,3 +1,4 @@
+package IMI_Pack;
 import java.io.Console;
 
 /*
